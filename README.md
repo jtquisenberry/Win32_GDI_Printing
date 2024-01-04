@@ -1,1 +1,1 @@
-# Win32_GDI_Printing
+# Win32 GDI Printing
